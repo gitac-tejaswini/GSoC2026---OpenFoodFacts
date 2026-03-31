@@ -1,0 +1,62 @@
+[
+  {
+    "id": "opt_001", "name": "Recycled Glass Bottle",
+    "recyclability": 0.92, "carbon_kg_per_unit": 0.55, "max_weight_kg": 2.0,
+    "is_protective": true, "liquid_safe": true, "airtight": true,
+    "size_efficiency": 0.75, "cost_per_unit": 0.45
+  },
+  {
+    "id": "opt_002", "name": "Molded Pulp Insert",
+    "recyclability": 0.85, "carbon_kg_per_unit": 0.20, "max_weight_kg": 1.5,
+    "is_protective": true, "liquid_safe": false, "airtight": false,
+    "size_efficiency": 0.80, "cost_per_unit": 0.18
+  },
+  {
+    "id": "opt_003", "name": "Recycled Cardboard Box",
+    "recyclability": 0.88, "carbon_kg_per_unit": 0.18, "max_weight_kg": 5.0,
+    "is_protective": true, "liquid_safe": false, "airtight": false,
+    "size_efficiency": 0.85, "cost_per_unit": 0.12
+  },
+  {
+    "id": "opt_004", "name": "Plastic Wrap",
+    "recyclability": 0.20, "carbon_kg_per_unit": 0.08, "max_weight_kg": 1.0,
+    "is_protective": false, "liquid_safe": false, "airtight": false,
+    "size_efficiency": 0.95, "cost_per_unit": 0.04
+  },
+  {
+    "id": "opt_005", "name": "Aluminium Can",
+    "recyclability": 0.95, "carbon_kg_per_unit": 0.35, "max_weight_kg": 1.0,
+    "is_protective": true, "liquid_safe": true, "airtight": true,
+    "size_efficiency": 0.88, "cost_per_unit": 0.22
+  },
+  {
+    "id": "opt_006", "name": "Bioplastic Pouch",
+    "recyclability": 0.55, "carbon_kg_per_unit": 0.14, "max_weight_kg": 0.8,
+    "is_protective": false, "liquid_safe": true, "airtight": true,
+    "size_efficiency": 0.90, "cost_per_unit": 0.16
+  },
+  {
+    "id": "opt_007", "name": "Steel Tin",
+    "recyclability": 0.90, "carbon_kg_per_unit": 0.42, "max_weight_kg": 3.0,
+    "is_protective": true, "liquid_safe": true, "airtight": true,
+    "size_efficiency": 0.70, "cost_per_unit": 0.30
+  },
+  {
+    "id": "opt_008", "name": "Virgin Plastic Bottle",
+    "recyclability": 0.30, "carbon_kg_per_unit": 0.28, "max_weight_kg": 2.0,
+    "is_protective": true, "liquid_safe": true, "airtight": true,
+    "size_efficiency": 0.82, "cost_per_unit": 0.10
+  },
+  {
+    "id": "opt_009", "name": "Wax-Coated Paper Bag",
+    "recyclability": 0.40, "carbon_kg_per_unit": 0.12, "max_weight_kg": 0.5,
+    "is_protective": false, "liquid_safe": false, "airtight": false,
+    "size_efficiency": 0.92, "cost_per_unit": 0.06
+  },
+  {
+    "id": "opt_010", "name": "Compostable Corn Starch Container",
+    "recyclability": 0.70, "carbon_kg_per_unit": 0.10, "max_weight_kg": 0.6,
+    "is_protective": true, "liquid_safe": true, "airtight": false,
+    "size_efficiency": 0.78, "cost_per_unit": 0.25
+  }
+]
